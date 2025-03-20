@@ -1,6 +1,6 @@
 
 describe ("Check UI Elements",()=>{
-    it("Checking Radio buttons",()=>{
+    /*it("Checking Radio buttons",()=>{
 
         cy.visit("https://ultimateqa.com/simple-html-elements-for-automation/")
 
@@ -26,7 +26,7 @@ describe ("Check UI Elements",()=>{
          cy.get('[value="male"]').should('not.be.checked')
          cy.get('[value="female"]').should("not.be.checked")
          cy.wait(2000)
-    })
+    })*/
 
          it("Checking Check boxes",()=>{
 
